@@ -19,6 +19,8 @@ The theory behind the system will follow __Ring Signature__
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/34/Ring-signature.svg)
 
-A group of entities each have public/private key pairs, (P1, S1), (P2, S2), ..., (Pn, Sn).
-a ring signature: σ = (m, Si, P1,P2,……,Pn)
-Anyone can check the validity of a ring signature given σ, m, and the public keys involved, P1, ..., Pn
+1. A group of entities each have public/private key pairs, (P1, S1), (P2, S2), ..., (Pn, Sn).
+
+2. a ring signature: σ = (m, Si, P1,P2,……,Pn)
+
+3. Anyone can check the validity of a ring signature given σ, m, and the public keys involved, P1, ..., Pn
