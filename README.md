@@ -5,6 +5,14 @@ We can solve a number of problems faced by the people involved in elections (dir
 
 A decentralized application on the Azure network. For demo we can write your first smart contract which will hold an election between two candidates and we will allow accounts connected to the network to vote in our election and we'll watch all the votes come in in real time as they happen we'll write tests against our smart contract to ensure that our code is robust and we'll deploy all the code in our smart contract to a local Azure blockchain we'll also write a client-side application that will allow users connected to the network to interact with our smart contract and vote in the election.
 
+Digital voting is the use of electronic devices, such as voting machines or an internet browser, to cast votes. These are sometimes referred to as e-voting whenvoting using a machine in a polling station, and e-voting when using a web browser.
+
+Security of digital voting is always the biggest concern when considering to implement a digitalvoting system. With such monumental decisions at stake, there can be no doubt about the system’s ability to secure data and defend against potential attacks. One way the security issues can be potentially solved is through the technology of blockchains.
+
+Blockchain technology originates from the underlying architectural design of the crypto currency bitcoin. It is a form of distributed database where records take the form of transactions, a block is a collection of these transactions. With the use of blockchains a secure and robust system for digital voting can be devised.
+
+To solve the problem, I propose a way to use the ring signature and the blockchain to ensure the features of the e-voting. The blockchain technology is characterized by decentralization, irreversibility, distribution of joint accounting, asymmetric encryption and data-security.
+
 With the initial research we believe using these dependencies will be beneficial.
 
 NPM: https://nodejs.org
