@@ -8,8 +8,11 @@ A decentralized application on the Azure network. For demo we can write your fir
 With the initial research we believe using these dependencies will be beneficial.
 
 NPM: https://nodejs.org
+
 Truffle: https://github.com/trufflesuite/truffle
+
 Ganache: http://truffleframework.com/ganache/
+
 Metamask: https://metamask.io/
 
 The theory behind the system will follow __Ring Signature__
